@@ -1,4 +1,4 @@
-#TESLA CLONE
+# TESLA CLONE
 
 Recreation of Tesla official website . It was made using React, styled components, router and material UI.
 
