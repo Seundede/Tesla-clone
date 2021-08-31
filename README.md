@@ -1,10 +1,8 @@
-TESLA CLONE
+#TESLA CLONE
 
-I re-created the landing page of Tesla official website . It was made using React, styled components, router and material UI.
+Recreation of Tesla official website . It was made using React, styled components, router and material UI.
 
-DEMO
-
-https://611667fef68dfb1c0e5f0c02--tesla-recreation.netlify.app/
+[LINK](https://611667fef68dfb1c0e5f0c02--tesla-recreation.netlify.app/)
 
 # Getting Started with Create React App
 
